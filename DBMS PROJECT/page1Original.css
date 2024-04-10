@@ -1,0 +1,131 @@
+body {
+  font-family: sans-serif;
+  background-color: white;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+p {
+  line-height: 1.5;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #007bff;
+}
+
+section {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+}
+.nav {
+  
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  position: relative;
+  width: 250px;
+  height: 220px;
+  justify-content: center;
+  align-items: center;
+}
+
+.loginIcon {
+  position: absolute;
+  width: 100px;
+  margin-left: 0%;
+  height: auto;
+}
+.dropdown-menu {
+  width: 100px;
+  height: auto;
+  display: block;
+  margin-left: 1575px;
+  margin-right: 250px;
+}
+.GSB2 {
+  margin-top: 5%;
+  margin-left: 105%;
+  display: block;
+  width: 125px;
+  border: none;
+  background-color: rgb(155, 155, 9);
+  padding: 14px 22px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  font-family: "Lucida Grande", Geneva, Verdana, Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: white;
+}
+/* header {
+  height: 230px;
+  width: auto;
+  background-color: white;
+} */
+h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 90px;
+  margin-left: 150px;
+}
+.section1 {
+  margin-left: 150px;
+}
+.button1 {
+  margin-left: 250px;
+  display: block;
+  width: 125px;
+  border: none;
+  background-color: black;
+  padding: 14px 22px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  font-family: "Lucida Grande", Geneva, Verdana, Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: white;
+}
+
+/* .locktext {
+  margin-left: 55px;
+} */
+.lockicon {
+  width: 35px;
+  height: auto;
+  float: left;
+}
+.cloth {
+  width: 35px;
+  height: auto;
+  float: left;
+  margin-left: 225px;
+}
+/* .clothtext {
+  margin-left: 265px;
+} */
+.money {
+  width: 35px;
+  height: auto;
+  float: left;
+  margin-left: 490px;
+}
+/* .moneytext {
+  margin-left: 530px;
+} */
+.section1 {
+  align-content: baseline;
+}
+
